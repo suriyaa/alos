@@ -6,7 +6,7 @@ written in [Assembly language](https://en.wikipedia.org/wiki/Assembly_language).
 **alOS** is a 16-bit real mode operating system for x86-compatible PCs, 
 written entirely in assembly language, which boots from a floppy disk,
 CD-ROM or USB key. This operating system is a further development of
-[MikeOS](http://mikeos.sourceforge.net/#downloads) & [TinkerOS](https://www.youtube.com/watch?v=6MJUGVFAXKg).
+[MikeOS](http://mikeos.sourceforge.net/) & [TinkerOS](https://www.youtube.com/watch?v=6MJUGVFAXKg).
 
 The code is completely open source (under a BSD-like license), 
 and is written by [Suriyaa Kudo](https://j.mp/ItsSuriyaa), 

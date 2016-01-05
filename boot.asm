@@ -3,7 +3,7 @@
 ; Copyright (C) 2006 - 2010 MikeOS Developers -- see LICENSE.md
 ;
 ; Based on a free boot loader by E Dehling. It scans the FAT12
-; floppy for KERNEL.BIN (the MikeOS kernel), loads it and executes it.
+; floppy for KERNEL.BIN (the alOS kernel), loads it and executes it.
 ; This must grow no larger than 512 bytes (one sector), with the final
 ; two bytes being the boot signature (AA55h). Note that in FAT12,
 ; a cluster is the same as a sector: 512 bytes.
